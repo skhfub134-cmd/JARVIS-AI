@@ -1,0 +1,8 @@
+{
+  "name": "jarvis-ai-2",
+  "version": "2.0.0",
+  "private": true,
+  "description": "JARVIS Hindi AI assistant starter",
+  "scripts": {"start": "node server.js"},
+  "engines": {"node": ">=20"}
+}
